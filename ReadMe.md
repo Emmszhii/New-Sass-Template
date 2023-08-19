@@ -4,10 +4,10 @@ This repository is a test on how to use the @use and @forward.
 
 Firstly,
 
-'You need to install in the node package manager (npm). If you don't have it install yet try to follow this link:
+`You need to install in the node package manager (npm). If you don't have it install yet try to follow this link:
 
 https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
-(I don't own the link)'
+(I don't own the link)`
 
 and once npm is installed try to install sass globally using this command
 
